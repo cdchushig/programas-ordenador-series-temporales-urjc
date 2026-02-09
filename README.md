@@ -53,7 +53,7 @@ Código Python asociado al **Bloque 2**:
 
 ---
 
-### **Práctica 3A — Análisis Espectral y Suavizado**
+### **Práctica 3 — Análisis Espectral y Suavizado**
 Código Python asociado al **Bloque 3A**:
 
 - Periodograma y FFT  
@@ -63,7 +63,7 @@ Código Python asociado al **Bloque 3A**:
 
 ---
 
-### **Práctica 3B — Predicción SARIMA**
+### **Práctica 4 — Predicción SARIMA**
 Código Python asociado al **Bloque 3B**:
 
 - Predicción mediante polinomios predictores  
@@ -73,7 +73,7 @@ Código Python asociado al **Bloque 3B**:
 
 ---
 
-### **Práctica 3C — Filtro de Kalman y Modelos VAR**
+### **Práctica 5 — Filtro de Kalman y Modelos VAR**
 Código Python asociado al **Bloque 3C**:
 
 - Implementación del filtro de Kalman  
