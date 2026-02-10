@@ -2,7 +2,7 @@
 
 Este repositorio contiene el material docente correspondiente a la
 **Práctica de Laboratorio 1** de la asignatura *Análisis de Series
-Temporales* (curso 2025--2026).\
+Temporales* (curso 2025--2026).
 El objetivo es introducir, de forma práctica, los conceptos
 fundamentales del análisis de series temporales mediante simulación,
 visualización e interpretación estadística.
@@ -36,8 +36,8 @@ interpretaciones de resultados.
 
 El notebook principal sigue la siguiente estructura:
 
-1.  Series estacionarias y no estacionarias\
-    1.1 Ruido blanco (proceso estacionario)\
+1.  Series estacionarias y no estacionarias
+    1.1 Ruido blanco (proceso estacionario)
     1.2 Ejemplos no estacionarios y transformaciones
 
 2.  AVF y ACF
@@ -68,12 +68,12 @@ Cada apartado incluye:
 Para ejecutar el notebook se recomienda un entorno Python 3.9+ con las
 siguientes librerías:
 
--   numpy\
--   pandas\
--   matplotlib\
--   seaborn\
--   scipy\
--   statsmodels\
+-   numpy
+-   pandas
+-   matplotlib
+-   seaborn
+-   scipy
+-   statsmodels
 -   jupyter
 
 Todas ellas pueden instalarse, por ejemplo, mediante:
@@ -134,3 +134,4 @@ Marius Marinescu
 Eva Milara Hernando  
 
 Universidad Rey Juan Carlos
+
