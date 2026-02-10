@@ -8,10 +8,9 @@ El cuaderno está diseñado como recurso educativo en **acceso abierto**.
 ------------------------------------------------------------------------
 
 ## Autores
-
+-   Marius Marinescu
 -   Vanesa Gómez Martínez
 -   Cristian David Chushig Muzo
--   Marius Marinescu
 -   Eva Milara Hernando
 
 **Afiliación:**
@@ -135,7 +134,8 @@ Esto permite reutilización y adaptación, siempre que se cite la fuente.
 
 ## Cómo citar este material (ejemplo)
 
-Gómez Martínez, V., Chushig Muzo, C. D., Marinescu, M., & Milara
+Marinescu, M., Gómez Martínez, V., Chushig Muzo, C. D., & Milara
 Hernando, E. (2026).
 *Práctica de Laboratorio 3 --- Análisis de Series Temporales*.
 Universidad Rey Juan Carlos.
+
