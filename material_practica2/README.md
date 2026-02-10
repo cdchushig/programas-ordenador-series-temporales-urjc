@@ -9,13 +9,13 @@ El cuaderno está diseñado como recurso educativo en **acceso abierto**.
 
 ## Autores
 
--   Vanesa Gómez Martínez\
--   Cristian David Chushig Muzo\
--   Marius Marinescu\
+-   Vanesa Gómez Martínez
+-   Cristian David Chushig Muzo
+-   Marius Marinescu
 -   Eva Milara Hernando
 
-**Afiliación:**\
-Universidad Rey Juan Carlos\
+**Afiliación:**
+Universidad Rey Juan Carlos
 Departamento de Teoría de la Señal y Comunicaciones y Sistemas
 Telemáticos y Computación
 
@@ -46,24 +46,24 @@ estadística.
 
 El notebook principal sigue la siguiente estructura:
 
-1.  ACF y PACF en modelos MA, AR y ARMA\
-2.  Invertibilidad y causalidad\
-3.  Ecuaciones de Yule--Walker (AR(3))\
+1.  ACF y PACF en modelos MA, AR y ARMA
+2.  Invertibilidad y causalidad
+3.  Ecuaciones de Yule--Walker (AR(3))
 4.  Metodología Box--Jenkins (serie real + SARIMA)
 
 Cada apartado incluye:
 
--   Generación o carga de datos.\
--   Visualización.\
--   Cálculo estadístico.\
+-   Generación o carga de datos.
+-   Visualización.
+-   Cálculo estadístico.
 -   Interpretación de resultados.
 
 ------------------------------------------------------------------------
 
 ## Archivos
 
--   `AST-Practica-2-openaccess-v5.ipynb` (o versión más reciente):
-    cuaderno principal de la práctica.\
+-   `AST-Practica-2.ipynb` (o versión más reciente):
+    cuaderno principal de la práctica.
 -   `README.md`: este archivo.
 
 ------------------------------------------------------------------------
@@ -72,13 +72,13 @@ Cada apartado incluye:
 
 Se recomienda Python 3.9+ y las siguientes librerías:
 
--   numpy\
--   pandas\
--   matplotlib\
--   seaborn\
--   scipy\
--   statsmodels\
--   pmdarima\
+-   numpy
+-   pandas
+-   matplotlib
+-   seaborn
+-   scipy
+-   statsmodels
+-   pmdarima
 -   jupyter
 
 Instalación típica:
@@ -134,6 +134,7 @@ Esto permite reutilización y adaptación, siempre que se cite la fuente.
 
 ## Cómo citar este material (ejemplo)
 
-Gómez Martínez, V., Chushig Muzo, C. D., Marinescu, M., & Milara Hernando, E. (2026).\
+Gómez Martínez, V., Chushig Muzo, C. D., Marinescu, M., & Milara Hernando, E. (2026).
 *Práctica de Laboratorio 2 --- Análisis de Series Temporales*.
 Universidad Rey Juan Carlos.
+
