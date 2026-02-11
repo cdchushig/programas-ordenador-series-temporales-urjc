@@ -14,6 +14,8 @@ El repositorio incluye notebooks, datos y material auxiliar utilizados en las pr
 Identiﬁcador SWHID (Software Heritage):
 swh:1:dir:af9f87bd35e3675cfe72e1d86da8d89a0b16c81a
 
+---
+
 ## Autores
 
 Vanesa Gómez Martínez  
@@ -24,12 +26,6 @@ Eva Milara Hernando
 **Afiliación:**  
 Universidad Rey Juan Carlos  
 Departamento de Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación  
-
----
-
-## Información Software Heritage
-
-Identificador SWHID (Software Heritage):  
 
 ---
 
@@ -102,7 +98,8 @@ Se recomienda Python 3.9+ y las librerías:
 - pmdarima  
 - jupyter  
 
-Instalación típica:
+Instalación de librerías Python:
 
-```bash
+```console
 pip install numpy pandas matplotlib seaborn scipy statsmodels pmdarima jupyter
+```
