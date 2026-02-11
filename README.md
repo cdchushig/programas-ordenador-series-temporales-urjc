@@ -9,6 +9,11 @@ El repositorio incluye notebooks, datos y material auxiliar utilizados en las pr
 
 ---
 
+### Software Heritage 
+
+Identiﬁcador SWHID (Software Heritage):
+swh:1:dir:af9f87bd35e3675cfe72e1d86da8d89a0b16c81a
+
 ## Autores
 
 Vanesa Gómez Martínez  
